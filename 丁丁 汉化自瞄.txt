@@ -1,4 +1,4 @@
-local Script_Title = `丁丁汉化阿尔宙斯 <font color="rgb(255, 0, 0)">|</font> 子弹追踪，自动瞄准`
+local Script_Title = `小羊汉化阿尔宙斯 <font color="rgb(255, 0, 0)">|</font> 子弹追踪😱，自动瞄准😋`
 
 -- Instances:
 local Arceus = Instance.new("ScreenGui")
